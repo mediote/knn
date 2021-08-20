@@ -65,7 +65,7 @@ Nesta análise, foi feita uma implementação própria do algoritimo KNN para cl
   </tr>
 </table>
 
-Em um segundo momento, os dados de treino e teste foram normalizados e o processo de classificação foi repetido observando os mesmos crtérios nos valores de k descritos acima.
+Em um segundo momento, os dados de treino e teste foram normalizados e o processo de classificação foi repetido observando os mesmos critérios nos valores de k descritos acima.
 
 <table>
   <tr>
