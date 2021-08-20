@@ -15,8 +15,4 @@
 | KNN  | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/knn/blob/main/knn.ipynb)  |
 
 
-## Datasets
-
-
-
 
