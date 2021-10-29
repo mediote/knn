@@ -21,7 +21,7 @@ acordo com o método holdout. </li>
 resultados da classificação</li>
 </ul>
 
-Mais informação no <a href="https://github.com/mediote/knn/blob/main/instrucoes.pdf">arquivo</a> ..
+Mais informação no <a href="https://github.com/mediote/knn/blob/main/instrucoes.pdf">arquivo</a>.
 
 ## 2 - Entendimento dos dados
 
